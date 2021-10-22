@@ -55,6 +55,6 @@
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
     "typescript": "~3.9.5",
-    "electron": "^10.1.5"
+    "electron": "^11.5.0"
   }
 }
